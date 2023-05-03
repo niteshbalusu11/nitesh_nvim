@@ -19,3 +19,6 @@ brew install gopls
 ```
 brew install ripgrep
 ```
+
+- Fix kitty issues with gpg signing
+https://gist.github.com/paolocarrasco/18ca8fe6e63490ae1be23e84a7039374?permalink_comment_id=4495766#gistcomment-4495766
